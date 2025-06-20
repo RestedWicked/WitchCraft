@@ -251,11 +251,6 @@ hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
 metafile = true
 
 [[files]]
-file = "mods/create-fully-automated.pw.toml"
-hash = "b33ff7bdf45bc65b0b7c54956cfb4547f304a108f3816101e1ba2888a002b600"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true

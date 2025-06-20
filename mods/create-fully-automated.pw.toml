@@ -1,7 +1,0 @@
-name = "create-fully-automated"
-filename = "2.0"
-
-[download]
-url = "https://modrinth.com/mod/create-fully-automated/version/2.0"
-hash-format = "sha256"
-hash = "0a3394ffd5a1a4b618fd9e9f9ca7b13b155e637c887fdbd7cc25f04110a9bf83"
