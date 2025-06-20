@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cpm.json"
+hash = "0a064e1da07c251142b512702851ebdae1cbf9dabe7a1fde65528dac888e348a"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "2dffaf4b17e900969d01b218d38ef4b42c105c1dd0ddf63810bb53a0833da758"
+
+[[files]]
 file = "mods/accessible-nether-roof.pw.toml"
 hash = "ca3f084036fcff654188d9b2785f6f75f76f56949c229c9b3ff9350d887cb2e1"
 metafile = true
