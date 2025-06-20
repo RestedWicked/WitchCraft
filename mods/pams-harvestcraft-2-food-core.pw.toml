@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2 - Food Core"
+filename = "pamhc2foodcore-NEOFORGE-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b55d2ee26fa395776abc25b521bc9bf7daf97fef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6655181
+project-id = 372534

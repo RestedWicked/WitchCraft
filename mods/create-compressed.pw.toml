@@ -1,0 +1,13 @@
+name = "Create Compressed"
+filename = "create_compressed-2.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sy4Box1J/versions/rW8MeyAL/create_compressed-2.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "b0f9f1a324c30cd6b29aa8f1c3f5dfd0fdc6fd5e050ecc066f66c97146ce403e569ea686e97aca11877f9b9dcddbe3c28374eea2e4c67b5c4ab7a8dd2897761e"
+
+[update]
+[update.modrinth]
+mod-id = "Sy4Box1J"
+version = "rW8MeyAL"

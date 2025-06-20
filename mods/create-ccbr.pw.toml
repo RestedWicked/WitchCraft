@@ -1,0 +1,13 @@
+name = "Create: CC Better Recipes"
+filename = "ccbr-1.1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZfuGM1m/versions/6CkfK0m9/ccbr-1.1.4-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7e5b55973caac1943757266b75ec955af7f421f47fc47261b65e47b9c7c01b28b10a2ea014154b3a5d4953749d6c6333b284f4a68a60b4c7efed49d6dca3a893"
+
+[update]
+[update.modrinth]
+mod-id = "WZfuGM1m"
+version = "6CkfK0m9"

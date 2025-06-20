@@ -1,0 +1,13 @@
+name = " Customizable Player Models Simple Voice Chat compat"
+filename = "cpm-svc-compat-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xVbeCJyB/versions/DURp3gsS/cpm-svc-compat-1.2.1.jar"
+hash-format = "sha512"
+hash = "ea8d77345ab4ae1fdecc53e0d7ab28c3e0d9c8753cafff2ee9b6bfc66f745fe14dd1b44a983008e41fc9439dbcecb93c9abbf64d3c2881a0bd8bcb12c7f4f752"
+
+[update]
+[update.modrinth]
+mod-id = "xVbeCJyB"
+version = "DURp3gsS"

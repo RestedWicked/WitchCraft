@@ -1,0 +1,13 @@
+name = "Miku Plushies"
+filename = "miku_plushie-1.6-1.21.1-neo-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnqZM7XU/versions/YCRxKJet/miku_plushie-1.6-1.21.1-neo-forge.jar"
+hash-format = "sha512"
+hash = "46d971a9d8522fa61fd806a87a6a0a7148a7dc6dae3565cd2368d091983bf8594a009c31f861780febea4a2efed6e20a1b3312e1903e68996d5a8ef317eeeae6"
+
+[update]
+[update.modrinth]
+mod-id = "LnqZM7XU"
+version = "YCRxKJet"

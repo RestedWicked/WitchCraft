@@ -1,0 +1,13 @@
+name = "UnChipped"
+filename = "unchipped-1.21-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RS1svSgj/versions/AdaSaUqa/unchipped-1.21-1.1.jar"
+hash-format = "sha512"
+hash = "f499c3cd747a1d50310efcef0c49ff8e8d5a48621e26d47d046f2df7b5a6ec17619ea2c4671f66a1494c5864ce8d19e7546a38876699748e92d7d6c08814a143"
+
+[update]
+[update.modrinth]
+mod-id = "RS1svSgj"
+version = "AdaSaUqa"

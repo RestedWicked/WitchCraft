@@ -1,0 +1,13 @@
+name = "Screenshot Compression"
+filename = "screenshotcompression-1.21.1-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cfrxss4E/versions/U8vrkfAK/screenshotcompression-1.21.1-1.1.jar"
+hash-format = "sha512"
+hash = "fbc1bd1987e51cfb37a891ab9064067df8c5f988daf731440903aff4f113bd610258e4edaa4a756d0535228afcd695dbb6913dac7d4d201229aabda2f2f9a04c"
+
+[update]
+[update.modrinth]
+mod-id = "cfrxss4E"
+version = "U8vrkfAK"

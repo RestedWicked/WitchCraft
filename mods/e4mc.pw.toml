@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc_minecraft-neoforge-5.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/Dwiz4GeV/e4mc_minecraft-neoforge-5.3.1.jar"
+hash-format = "sha512"
+hash = "cfa82112316a71fb37c2b6e6583bc6bd817a0b922e2080451ba9229fe9064e3ff99872746431fef93733fe993ac592fd44e22a4ba74d38ed88d379581acbf1a9"
+
+[update]
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "Dwiz4GeV"

@@ -1,0 +1,13 @@
+name = "ExperienceLib"
+filename = "experiencelib-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SglcIh0L/versions/wIFOnKQ4/experiencelib-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "07d1099209da5f33deaabdaa4593cd07a014d7064d6e9c79e03c27a48816eb77122c166f123b51ba157ea48c47d19c0625c73de851962a7ec188e3be94686357"
+
+[update]
+[update.modrinth]
+mod-id = "SglcIh0L"
+version = "wIFOnKQ4"

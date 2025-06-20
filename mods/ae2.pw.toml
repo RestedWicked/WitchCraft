@@ -1,0 +1,13 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-19.2.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Skhspwxl/appliedenergistics2-19.2.12.jar"
+hash-format = "sha512"
+hash = "27df4ffc2bf9bf556bd6ae09197b7d9029ab79487477f0edbf650a33780f8f55778974a3109245c42dddeec12f0abfd0aa5b9737d715fc04a33ae1fc62942393"
+
+[update]
+[update.modrinth]
+mod-id = "XxWD5pD3"
+version = "Skhspwxl"

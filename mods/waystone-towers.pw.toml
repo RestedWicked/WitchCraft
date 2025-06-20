@@ -1,0 +1,13 @@
+name = "Waystone Towers"
+filename = "waystone_towers-1.21.1-NEOFORGE-1.0.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/azBgcZIk/versions/fpBt3TAz/waystone_towers-1.21.1-NEOFORGE-1.0.9.jar"
+hash-format = "sha512"
+hash = "06367b66ccc0d3132c0023ae3695395a65ff1f958728310438f929f9de26c59ae8d6e3d65b5b9ff2fe3d943cd41e2a547c16baa6b8015969c4b242f7de8e5690"
+
+[update]
+[update.modrinth]
+mod-id = "azBgcZIk"
+version = "fpBt3TAz"

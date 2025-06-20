@@ -1,0 +1,13 @@
+name = "EpheroLib"
+filename = "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DIIgdJzf/versions/irMqtqYp/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar"
+hash-format = "sha512"
+hash = "ef0e4655edfec20d68cc2e0baa915938866084d2ef915d91fd9865555881e74f2830db5675026fe7a5102fe0d80e909dad0090845884be57dd6a0a4233406ca0"
+
+[update]
+[update.modrinth]
+mod-id = "DIIgdJzf"
+version = "irMqtqYp"

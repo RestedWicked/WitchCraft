@@ -1,0 +1,13 @@
+name = "Schematic Energistics"
+filename = "schematicenergistics-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2qXuuYu8/versions/7hfmgVsQ/schematicenergistics-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "efb391c3ed0ff669bd4e35d22513252ddfdbda8301546423542b580379a7820a26a604bf7dd1a5b956482beb910954a5e5268a59f2e16dea450d5109776d39bd"
+
+[update]
+[update.modrinth]
+mod-id = "2qXuuYu8"
+version = "7hfmgVsQ"

@@ -1,0 +1,13 @@
+name = "Gliders"
+filename = "gliders-1.21.1-neoforge-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/6FBW2eYx/gliders-1.21.1-neoforge-1.1.7.jar"
+hash-format = "sha512"
+hash = "27f885e020ec2b704fe1f04b2f2600384987a6b76f4e929d1c7684a7ed114dde60f1e94ffd37e81ecdd2aeeef81432ae1c7d534abe6711322b16cab461b075b0"
+
+[update]
+[update.modrinth]
+mod-id = "XiC6HzoU"
+version = "6FBW2eYx"

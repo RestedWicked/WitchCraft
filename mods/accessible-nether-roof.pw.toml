@@ -1,0 +1,13 @@
+name = "Accessible Nether Roof"
+filename = "AccessNetherRoof-1.1-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQ4QyrBb/versions/rpfjbinG/AccessNetherRoof-1.1-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "bb05c52fc8d4caa0eb474f887525dd63a7c2ff5fa3175c8295e69395721d7ee1def8f39e8cdad685d062e951155a22de562cf4e4a96b2417ed4b3dd86deccc08"
+
+[update]
+[update.modrinth]
+mod-id = "uQ4QyrBb"
+version = "rpfjbinG"

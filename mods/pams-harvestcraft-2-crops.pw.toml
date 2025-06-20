@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2 - Crops"
+filename = "pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15f0bffa9f3c8c0868d29f9d33c75e586d55425d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6221524
+project-id = 361385

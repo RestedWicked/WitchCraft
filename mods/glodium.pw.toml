@@ -1,0 +1,13 @@
+name = "Glodium"
+filename = "Glodium-1.21-2.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhW5uCKw/versions/pfbmdJ3b/Glodium-1.21-2.2-neoforge.jar"
+hash-format = "sha512"
+hash = "56a387a1bdaf0146c9a7e14de0aca8b6f53f25d3ba9d46255f142043387282ed9e4fa0011d309e32d9ffe5362b129c07e301226dd4ac11eda9a4f42f27c0b5d1"
+
+[update]
+[update.modrinth]
+mod-id = "UhW5uCKw"
+version = "pfbmdJ3b"

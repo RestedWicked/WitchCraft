@@ -1,0 +1,13 @@
+name = "Shorkie"
+filename = "shorkie-2101.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wj0EvN9T/versions/fqoXZXgI/shorkie-2101.1.0.2.jar"
+hash-format = "sha512"
+hash = "483ce8cca0863466ae70672dc9c3adc3f21841b6e137e28c7da4096ba075900b53764b0a5b9bd32202beabec33fd3e913752c93d912c43bfbacbdc055e6be85b"
+
+[update]
+[update.modrinth]
+mod-id = "wj0EvN9T"
+version = "fqoXZXgI"

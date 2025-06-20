@@ -1,0 +1,13 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.21.1-neoforge-1.3.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/efoMHHTh/EquipmentCompare-1.21.1-neoforge-1.3.13.jar"
+hash-format = "sha512"
+hash = "2e96d8b54f3f2c99525c91cae298561cc122dde8840bcb2d64ec0cfd997b6f49efcd13050f82f500f5cf414c5caaae29118ac45532ac34b1b62e62ad49cbcb31"
+
+[update]
+[update.modrinth]
+mod-id = "CYSUVOdj"
+version = "efoMHHTh"

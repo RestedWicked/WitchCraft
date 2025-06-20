@@ -1,0 +1,13 @@
+name = "Clean Tooltips"
+filename = "clean_tooltips-1.1-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vMoHe8uI/versions/F8TicG1p/clean_tooltips-1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "935f2a18528ae722a628098a33a6d7512f3f029271637738810fc6ed8f5589cd715435a2e66dbd70911e4ddebfd7ea9df17a9766fe4d7ae876dff31b248649fc"
+
+[update]
+[update.modrinth]
+mod-id = "vMoHe8uI"
+version = "F8TicG1p"

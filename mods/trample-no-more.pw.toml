@@ -1,0 +1,13 @@
+name = "Trample No More"
+filename = "tramplenomore-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bc9bwujS/versions/W15ZbWlR/tramplenomore-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "73852b6c788cb1aba99f18dc62c8b4ff0da784a2cf3f9c090eb91d071b838dc757fff83bb85f376b31cde5f5a1a33ec9cf8e5bdf86796cbc72c3958057a4a77e"
+
+[update]
+[update.modrinth]
+mod-id = "Bc9bwujS"
+version = "W15ZbWlR"

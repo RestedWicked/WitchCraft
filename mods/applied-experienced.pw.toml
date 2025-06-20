@@ -1,0 +1,13 @@
+name = "Applied Experienced"
+filename = "applied-experienced-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yKwUnZCV/versions/6BRGJjG9/applied-experienced-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "c0b8fc4b154e975c40ed8626d023fe39d57406ffcf292c7d8c578161fcdb0df5471dbf86282fc71813db8b09165b5bc0fe3c2b110c519f0a8da94e09f2e1805a"
+
+[update]
+[update.modrinth]
+mod-id = "yKwUnZCV"
+version = "6BRGJjG9"

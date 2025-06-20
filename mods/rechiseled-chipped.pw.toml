@@ -1,0 +1,13 @@
+name = "Rechiseled: Chipped"
+filename = "rechiseled_chipped-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ryYcxeeA/versions/Rc29Os3M/rechiseled_chipped-1.2.jar"
+hash-format = "sha512"
+hash = "682fbabe9ce7b267389ea71877565a52548c7056f752c82a1845015b9f5ae61e87a7d0aeee74a754fc68f72ba610af087b9cbc0b7f8da79f0b1e4a4f1b7acf7e"
+
+[update]
+[update.modrinth]
+mod-id = "ryYcxeeA"
+version = "Rc29Os3M"

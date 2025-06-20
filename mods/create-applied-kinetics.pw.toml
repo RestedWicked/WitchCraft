@@ -1,0 +1,13 @@
+name = "Create: Applied Kinetics"
+filename = "createappliedkinetics-1.5.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mYGTCuZY/versions/peZTclus/createappliedkinetics-1.5.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "42ac159455e6396499695aa227ff00687834f34be386c44e5e7e1e49de968bfe2e0c704ad3d9bfe8c2605d94f6b04c71c4c8121cd66951ec311233d3d37664f7"
+
+[update]
+[update.modrinth]
+mod-id = "mYGTCuZY"
+version = "peZTclus"

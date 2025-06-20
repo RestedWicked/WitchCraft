@@ -1,0 +1,13 @@
+name = "Drop-Down Keybindings"
+filename = "dropdown_keybindings-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nCx4AsF/versions/cqyc65m0/dropdown_keybindings-1.0.0.jar"
+hash-format = "sha512"
+hash = "ca0242e09b63f01c54c69ea2549677556cb1df33cfe0f8f733d2b4fef3e1503ac5e3954d0aa88ef1363c8b6f0db98acc1d4f0daa01511c9d46fe8f673bbe82c8"
+
+[update]
+[update.modrinth]
+mod-id = "1nCx4AsF"
+version = "cqyc65m0"

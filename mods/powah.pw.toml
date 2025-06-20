@@ -1,0 +1,13 @@
+name = "Powah!"
+filename = "Powah-6.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/yu53tpA7/Powah-6.2.4.jar"
+hash-format = "sha512"
+hash = "701bdf32dab3a44a9f47a21749a29bec68dbe82053c03b37c96971864c53862ffd48444e891884d68c208cdd5da6dfb080ccd5a1f0498d4802d8f6c9f189c1e8"
+
+[update]
+[update.modrinth]
+mod-id = "KZO4S4DO"
+version = "yu53tpA7"

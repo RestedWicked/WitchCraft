@@ -1,0 +1,13 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-neoforge-1.21.1-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6txNkua3/versions/mWnqjtgT/immersive_paintings-neoforge-1.21.1-0.7.1.jar"
+hash-format = "sha512"
+hash = "5e72f201ce3cb6e4b481bd6463f254bd1f1c79f91d1b60259975b28a7b3f9df8c29e021e0622bbac9f7e58839f0a4ec186c5b2ef1b217c6f5be12a258443e075"
+
+[update]
+[update.modrinth]
+mod-id = "6txNkua3"
+version = "mWnqjtgT"

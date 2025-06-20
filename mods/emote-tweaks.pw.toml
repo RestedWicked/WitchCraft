@@ -1,0 +1,13 @@
+name = "Emote Tweaks (Emotecraft Team Continuation)"
+filename = "emotetweaks-neoforge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUXvHuhO/versions/e88yan3D/emotetweaks-neoforge-1.0.3.jar"
+hash-format = "sha512"
+hash = "eb6e0df9723da27ec4830ab283399d09672be9d26bb62b134b090af2baaa721969f9bd794c6b6a2e1b8361a094ac87433875d1b10ae7008907bcebd5f37bf940"
+
+[update]
+[update.modrinth]
+mod-id = "DUXvHuhO"
+version = "e88yan3D"

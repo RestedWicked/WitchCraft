@@ -1,0 +1,13 @@
+name = "Stitch (formerly Athena)"
+filename = "athena-neoforge-1.21-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/zzovqkDA/athena-neoforge-1.21-4.0.1.jar"
+hash-format = "sha512"
+hash = "e7eef188344aa6ce379c60f0896f72a8af9f795fe318063d484fd9e9bff51cc20228fb70878ed156fd884a3bacec7edd4a600d51913293005084509f9b66cfdf"
+
+[update]
+[update.modrinth]
+mod-id = "b1ZV3DIJ"
+version = "zzovqkDA"

@@ -1,0 +1,13 @@
+name = "Multiplayer Server Pause"
+filename = "MultiplayerServerPause-1.21-NeoForge-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPXnAvtA/versions/Lm5vUzOe/MultiplayerServerPause-1.21-NeoForge-1.3.3.jar"
+hash-format = "sha512"
+hash = "212be5967d56d86d25aea529924c64cd853dfd4109856f220a39af1c2a72298a2e5a4cb21b9a39825bd48e507e876d306976e23a560ad0c857ad0d113ad89441"
+
+[update]
+[update.modrinth]
+mod-id = "RPXnAvtA"
+version = "Lm5vUzOe"

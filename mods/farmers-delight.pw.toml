@@ -1,0 +1,13 @@
+name = "Farmer's Delight"
+filename = "FarmersDelight-1.21.1-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R2OftAxM/versions/yCkges3O/FarmersDelight-1.21.1-1.2.8.jar"
+hash-format = "sha512"
+hash = "ca2d5a21ecd14a25374b26570f1c63c54623b55603108ffe4f83f82b79ff8cf08b35f444078141ec4196dad669699e1beeea41d8d0c34c0602941247b93f4a52"
+
+[update]
+[update.modrinth]
+mod-id = "R2OftAxM"
+version = "yCkges3O"

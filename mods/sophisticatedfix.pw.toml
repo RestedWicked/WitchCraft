@@ -1,0 +1,13 @@
+name = "SophisticatedFix"
+filename = "sophisticatedfix-0.0.1-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X62RCnlU/versions/G87TVBVo/sophisticatedfix-0.0.1-alpha.jar"
+hash-format = "sha512"
+hash = "f4549a14ab518e9e0290b15d22960694059656c9d1ed647df1a3de4183c9bbfdc1ab1c75fbbfa74fbb1f7d244b863d72861a1ab00661303a4dc1330d3e8959be"
+
+[update]
+[update.modrinth]
+mod-id = "X62RCnlU"
+version = "G87TVBVo"
