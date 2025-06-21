@@ -1,197 +1,215 @@
 # WitchCraft
 A modpack for my oomfies
 
+Credits:
+- @kc.is.being.pet for having a modpack I could get inspiration from
+- @aria.coffee for helping me find mods and admin the server.
+
 Command for future reference
 `java -jar packwiz-installer-bootstrap.jar -g -s server https://restedwicked.xyz/WitchCraft/pack.toml`
 
 ## Modlist
-- ViveCraft Compat
-- Collective
-- ModernFix
-- McMouser
-- Jade
-- Glodium
-- Konkrete
-- connector-2.0.0-beta.8+1.21.1-full
-- Better Ping Display
-- Immersive Paintings
-- WaterFrames
-- Accessorify
-- Just Enough Professions (JEP)
-- PrickleMC
-- ActuallyHarvest
-- Inventory Essentials
-- Just Enough Breeding
-- Pam's HarvestCraft - Trees
-- Farmer's Delight
-- Advanced Peripherals
-- Jade Addons
-- Curios Compatibility Layer
-- Emote Tweaks
-- WaterMedia
-- Xaero's Minimap
-- Create: Applied Kinetics
-- Sodium Options API
-- No Enderman Grief
-- Sophisticated Core
-- Bookshelf
-- SuperMartijn642's Core Lib
-- Carry On
-- EntityCulling
-- Schematic Energistics
-- Ars Énergistique
-- Corpse
-- citresewn_neopatcher-1.1.0-1.2.2
-- Pam's HarvestCraft - Crops
-- Explorer's Compass
-- Ars Polymorphia
-- EMI Loot
-- Bridging Mod
-- Create: Bells & Whistles
-- Simple Voice Chat
-- Powah
-- CPM SVC Compat
-- Applied Experienced
-- Create Ore Excavation
-- Just Enough Effects Descriptions
-- Distant Horizons
-- Skin Changer
-- Mekanism: Tools
-- CIT Resewn
-- Reese's Sodium Options
-- AppleSkin
-- FTB Essentials
-- Polymorph
-- ClientSort
-- Rechiseled: Create
-- Ferrite Core
-- ImmediatelyFast
-- CC: Tweaked
-- Rechiseled: Chipped
-- GlitchCore
-- What Are They Up To
-- Create: Enchantment Industry
-- Waystones
-- Entity Model Features
-- Puzzles Lib
-- Emotecraft
 - Just Enough Resources
-- Ars Nouveau
-- Create: CC Total Logistics
-- Create: Dreams n' Desires
-- Caelus API
-- Shorkie
-- Create Jetpack
-- Mekanism
-- Lithium
-- Xaero's World Map
+- Artifacts
 - Polytone
-- Extreme Sound Muffler
-- Clean Tooltips
-- Ok Zoomer
-- Another Furniture
-- MoreMouseTweaks
-- Transmog
-- oωo
-- kotlinforforge-5.8.0-all
-- EMI Enchanting
-- Comforts
+- Sophisticated Backpacks
+- Highlighter
 - Equipment Compare
-- Extra Mod Integrations
-- Create Compressed
-- Applied Energistics 2
-- Sophisticated Storage Create Integration
-- GuideME
-- FTB Library
-- Controlling
-- Fzzy Config
-- Screenshot Compression
-- Croptopia
-- Pam's HarvestCraft - Food Core
-- Create: CC Better Recipes
-- DropdownKeybindings
-- AcessNetherRoof
-- Fusion
-- Sophisticated Backpacks Create Integration
-- Tiny Item Animations
-- Sodium
-- Elytra Slot
-- Mouse Tweaks
+- Pam's HarvestCraft - Crops
+- Clean Tooltips
 - Multiplayer Server Pause
-- Yeetus Experimentus
-- Miku Plushie
+- Create Ore Excavation
+- Forgified Fabric API
+- Rechiseled
+- TerraBlender
+- ChunkyBorder
+- Supplementaries
+- Chipped
+- Applied Energistics 2
+- Immersive Paintings
+- Chunky
+- AdvancedLootInfo
+- FTB Ultimine
+- No Enderman Grief
+- Caelus API
+- Sodium
+- WaterMedia
+- Sodium Dynamic Lights
+- EntityCulling
+- Rechiseled: Create
+- Ars Énergistique
+- AcessNetherRoof
+- Sophisticated Storage
+- Tom's Peripherals
+- Reese's Sodium Options
+- WaterFrames
+- Forge Config API Port
+- CreativeCore
+- Explorer's Compass
+- Fusion
+- Schematic Energistics
+- Farmer's Delight
+- ScalableLux
+- Applied Experienced
+- FTB Library
+- Just Enough Professions (JEP)
+- Better Ping Display
+- Powah
+- Music Maker Mod
+- McMouser
+- Ok Zoomer
+- Mekanism
+- Collective
+- Puzzles Lib
+- Create: Copycats+
+- Fzzy Config
+- Moonlight Lib
+- kotlinforforge-5.8.0-all
+- GeckoLib 4
+- Remove Reloading Screen
+- Just Enough Effects Descriptions
+- ModernFix
+- UnChipped
+- Melody
+- EMI
+- Controlling
+- Entity Texture Features
+- SophisticatedFix
+- Screenshot Compression
+- YetAnotherConfigLib
+- Athena
+- Iris
+- Create Crafts & Additions
+- Crawl
+- Amendments
+- Create: Enchantment Industry
+- Potentials
+- Konkrete
+- Ars Polymorphia
+- SuperMartijn642's Config Library
+- Nature's Compass
+- Create: Bells & Whistles
+- Mouse Tweaks
+- Shorkie
+- Create: CC Total Logistics
+- Handcrafted
+- CoroUtil
+- FTB Essentials
+- ImmediatelyFast
+- Croptopia
 - Create: Dragons Plus
 - Create Stock Bridge
-- EMI
-- Cloth Config v15 API
-- Sophisticated Backpacks
-- Tom's Peripherals
-- Nature's Compass
-- CreativeCore
-- Searchables
-- Gliders
-- ExperienceLib
-- Sophisticated Storage In Motion
-- Dynamic FPS
-- Handcrafted
-- Athena
 - Chat Heads
-- Create Ultimine
-- Chipped
-- CoroUtil
-- Resourceful Lib
-- FancyMenu
-- Vivecraft
-- forgeshot
-- Remove Reloading Screen
-- iChunUtil
-- More Culling
-- No Chat Reports
-- Create: Copycats+
-- Music Maker Mod
-- Create
-- GeckoLib 4
-- EMI Ores
-- YetAnotherConfigLib
-- FTB Ultimine
-- UnChipped
-- SwingThrough
-- Advanced AE
-- EpheroLib
-- Patchouli
+- PrickleMC
+- Jade
 - Screenshot to Clipboard
-- Pam's HarvestCraft - Food Extended
-- AdvancedLootInfo
-- SuperMartijn642's Config Library
-- Continuity
+- Ferrite Core
+- Clumps
+- Emote Tweaks
+- Vivecraft
+- Yeetus Experimentus
+- Cloth Config v15 API
+- What Are They Up To
+- Create: Applied Kinetics
+- Another Furniture
 - Just Enough Archaeology
-- Biomes O' Plenty
-- Balm
-- Sleep
-- Architectury
-- Crawl
-- Rechiseled
-- SophisticatedFix
-- Highlighter
-- Melody
-- TerraBlender
+- No Chat Reports
+- Dynamic FPS
+- Sophisticated Storage Create Integration
+- SuperMartijn642's Core Lib
+- Ars Nouveau
+- Extreme Sound Muffler
 - Just Enough Items
-- Customizable Player Models
-- Mekanism: Generators
+- Drop Head
+- Create: CC Better Recipes
+- Searchables
+- Lithium
+- iChunUtil
+- Corpse
+- Elytra Slot
+- Emojiful
+- EMI Ores
+- connector-2.0.0-beta.8+1.21.1-full
+- Resourceful Lib
+- citresewn_neopatcher-1.1.0-1.2.2
+- EMI Enchanting
+- Rechiseled: Chipped
+- Stellaris
+- Snad
+- Skin Changer
+- Create Jetpack
+- Emotecraft
+- Just Enough Breeding
+- Simple Voice Chat
+- More Culling
+- Balm
+- Gliders
+- EMI Loot
+- Cubes Without Borders
+- Create: Simple Ore Doubling
+- Bridging Mod
+- ExperienceLib
+- Tiny Item Animations
+- Accessorify
+- AppleSkin
+- GuideME
+- Curios Compatibility Layer
 - Iceberg
-- Accessories
-- EMI Professions (EMIP)
-- Create Crafts & Additions
-- TrampleNoMore
-- Entity Texture Features
-- Sodium Extra
-- Forgified Fabric API
-- Sophisticated Storage
-- Iris
-- Sodium Dynamic Lights
-- Chunky
-- Moonlight Lib
 - Concurrent Chunk Management Engine
-- Supplementaries
-- ChunkyBorder
-- Amendments
+- Create
+- GlitchCore
+- DropdownKeybindings
+- Bookshelf
+- Sophisticated Storage In Motion
+- Create Ultimine
+- OctoLib
+- Advanced AE
+- Patchouli
+- Pam's HarvestCraft - Food Extended
+- Pam's HarvestCraft - Food Core
+- Create Compressed
+- Transmog
+- Jade Addons
+- Inventory Essentials
+- Sodium Extra
+- Relics
+- Sophisticated Core
+- Carry On
+- oωo
+- Mekanism: Generators
+- ActuallyHarvest
+- Accessories
+- ViveCraft Compat
+- CC: Tweaked
+- Distant Horizons
+- Continuity
+- Glodium
+- Miku Plushie
+- SwingThrough
+- Sodium Options API
+- EMI Professions (EMIP)
+- Entity Model Features
+- Polymorph
+- Architectury
+- Biomes O' Plenty
+- Customizable Player Models
+- Waystones
+- Create: Dreams n' Desires
+- Pipez
+- Sophisticated Backpacks Create Integration
+- Extra Mod Integrations
+- CPM SVC Compat
+- TrampleNoMore
+- FancyMenu
+- Advanced Peripherals
+- EpheroLib
+- Pam's HarvestCraft - Trees
+- forgeshot
+- MoreMouseTweaks
+- Mekanism: Tools
+- Comforts
+- Sleep
+- ClientSort
+- CIT Resewn
+- Xaero's World Map
+- Xaero's Minimap
