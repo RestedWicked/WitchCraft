@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "5af48dc90a7a4efb9731f570db238a55968ed7bce352e4052321ab669b7fcce6"
-
-[[files]]
 file = "config/cpm.json"
 hash = "0a064e1da07c251142b512702851ebdae1cbf9dabe7a1fde65528dac888e348a"
 
