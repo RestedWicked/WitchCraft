@@ -125,16 +125,6 @@ hash = "440fcfa72eac8e0cb86127ce6ce3f8de5e1a220538d48e3e831e8ea9a459ff12"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
-metafile = true
-
-[[files]]
-file = "mods/antique-trains.pw.toml"
-hash = "b276977b96023a93ef82ee1f0911458b6aecfbe019e91c7d2822bcd4fd039c32"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "38c7d508865d0b8f56f15427fa626bc9cef867f6b21d1c6dc2db6bf99e921d49"
 metafile = true
@@ -735,11 +725,6 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
-file = "mods/load-my-chunks.pw.toml"
-hash = "3014c8a1e78944d0ab96f08364006f00fa3b176a7e4a751cf9bf1b1eef156856"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
@@ -1070,16 +1055,6 @@ hash = "c3a55e1fb24b0caabc684ce4465b91a40eb46f5dc42610dbf690328d839eccf4"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
-metafile = true
-
-[[files]]
-file = "mods/surveystones.pw.toml"
-hash = "a195d1cb6b5643cf1514b637169a2e779201e09d8fd9dc5da3bd78c53c8176ec"
-metafile = true
-
-[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
@@ -1152,6 +1127,16 @@ metafile = true
 [[files]]
 file = "mods/world-border.pw.toml"
 hash = "18a2c5562acc2fd6531270bd1ad63899c482d4cac8935b320f90a8dd34b545fe"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
 metafile = true
 
 [[files]]
