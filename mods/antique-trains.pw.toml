@@ -1,0 +1,13 @@
+name = "Antique Trains"
+filename = "antiquetrainsredone-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2nPBLTlo/versions/mWgZ7B6z/antiquetrainsredone-1.0.2.jar"
+hash-format = "sha512"
+hash = "3de92f87642c86beecb775eddd183d61a51a8bf145afb6887147b0d5cc400f4d0c4eedc14585519cb4a547ad3b637705fcfdf61acc3c43f64638ef11aca7f575"
+
+[update]
+[update.modrinth]
+mod-id = "2nPBLTlo"
+version = "mWgZ7B6z"
