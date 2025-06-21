@@ -65,6 +65,10 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "13c564b1003bf45787e8a7ce4caaf892a9cc376b780a654d0aef0e0c0063e0df"
 
 [[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
+
+[[files]]
 file = "mods/accessible-nether-roof.pw.toml"
 hash = "9bb3100352bf53612d6f2ce771e61818e220c8dc2228e028546858d5a5ab9cc8"
 metafile = true
@@ -726,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+hash = "039bf6dad6f4669b586b65a9ca91bd5626c28ca9e9e369031607d93f055c6b37"
 metafile = true
 
 [[files]]
