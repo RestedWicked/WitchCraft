@@ -1,0 +1,13 @@
+name = "Load My Chunks"
+filename = "loadmychunks-1.1.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OtbeKtn3/versions/dGDaolT6/loadmychunks-1.1.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "d857e508f3cd80621211da0e49374a8419ef13f6056d65b6a9ee9e19a96fb90ede0e28dcd6793db703c7c89c556b0375cea660bcd81bc95244627b464a026f81"
+
+[update]
+[update.modrinth]
+mod-id = "OtbeKtn3"
+version = "dGDaolT6"

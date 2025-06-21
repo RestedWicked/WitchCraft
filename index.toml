@@ -65,6 +65,10 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "13c564b1003bf45787e8a7ce4caaf892a9cc376b780a654d0aef0e0c0063e0df"
 
 [[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
+
+[[files]]
 file = "mods/accessible-nether-roof.pw.toml"
 hash = "9bb3100352bf53612d6f2ce771e61818e220c8dc2228e028546858d5a5ab9cc8"
 metafile = true
@@ -136,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e14e286ec8d49a89caf5257304c60dfad67968162266e0c0823fdff3a2992280"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -152,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/ars-polymorphia.pw.toml"
 hash = "940afa8606a93c6f425448c79f5ba047344d643dd31ebef3713c5f9bdd3b700d"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "6a92f9a1fd320a627754d36cfa06a905ca5183d3666d49bbbcede7ef910d96aa"
 metafile = true
 
 [[files]]
@@ -400,6 +409,11 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "bb49c558825151e75dca444c8eaa789cca66caf682c34f8bff9ca49d0a622d0b"
 metafile = true
@@ -422,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/drop-down-keybindings.pw.toml"
 hash = "40787d42e8f9796467c6143cda460904b247d5a1b0b5b73823869773522cea38"
+metafile = true
+
+[[files]]
+file = "mods/drop-head.pw.toml"
+hash = "8b49c99da999017a375d8b4a4d0670365d7bbf39edbee0a222756b3467f08fbf"
 metafile = true
 
 [[files]]
@@ -720,6 +739,11 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
+file = "mods/load-my-chunks.pw.toml"
+hash = "3014c8a1e78944d0ab96f08364006f00fa3b176a7e4a751cf9bf1b1eef156856"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
@@ -810,6 +834,11 @@ hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
@@ -860,6 +889,11 @@ hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "aade2ad1f0fe455a9af46aefe582118840fd9182d3faa2350fbaeb898266e31d"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "de82ac7d16daec3e76e8f521cd72b73668dd6bb82000b0065e84e3d99ee8f8dc"
 metafile = true
@@ -895,6 +929,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -902,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
 metafile = true
 
 [[files]]
@@ -942,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/sleep.pw.toml"
 hash = "819f715e2fc22568b84b5d043cc77725cade1a6ac27867bed993e036cac04b82"
+metafile = true
+
+[[files]]
+file = "mods/snad.pw.toml"
+hash = "1e8c9a317d9c076408d7e1533a362864b3f39f8998616149db646b2e9449244e"
 metafile = true
 
 [[files]]
@@ -997,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedfix.pw.toml"
 hash = "7a4751b8ee21dac7a319df6e886a770c6701d0fa88d1d1caed221b9e0ab466af"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "91776246b30fc75f2939f65dfd1cfa13ce4fec50bd0c9271ca772ee25d490a7b"
 metafile = true
 
 [[files]]
