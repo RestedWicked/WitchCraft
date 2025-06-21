@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/YgPFqhlP/balm-neoforge-1.
 hash-format = "sha512"
 hash = "2a9d4b000af1d9949daf958e25456809ecb4ffbd29036c3855a02f5df85ee0d23ed8068be90a467aa024e5eceda765257dfae83cbd02c24b9f8156a5bf37ce51"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/balm"
+icon = "https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp"
+description = "Abstraction Layer for Multiplatform Mods"
+category = "lib"
+
 [update.modrinth]
 mod-id = "MBAkmtvl"
 version = "YgPFqhlP"

@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-
 hash-format = "sha512"
 hash = "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/chunky"
+icon = "https://cdn.modrinth.com/data/fALzjamp/e1954413665e57b7bae1feef44eda530270c7d47_96.webp"
+description = "Pre-generates chunks, quickly and efficiently"
+category = "optimization"
+
 [update.modrinth]
 mod-id = "fALzjamp"
 version = "LuFhm4eU"

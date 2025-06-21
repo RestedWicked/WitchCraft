@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/K0AkAin6/versions/9HJg5RYE/clientsort-neofo
 hash-format = "sha512"
 hash = "c9c83e5212b80b28810dfb4cf171fd810e3d83d8870f01796eac44fec898e7788d2ee64eabdd73b7103d6b5d1f6ab663b05461f97fdd650cd7e65fda51f7cec7"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/clientsort"
+icon = "https://cdn.modrinth.com/data/K0AkAin6/7cf06458738334bd5d8cd77d086529d453f56ef6_96.webp"
+description = "A standalone implementation of the sorting algorithm from Mouse Wheelie."
+category = "qol"
+
 [update.modrinth]
 mod-id = "K0AkAin6"
 version = "9HJg5RYE"

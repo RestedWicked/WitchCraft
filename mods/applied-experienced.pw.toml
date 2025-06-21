@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/yKwUnZCV/versions/6BRGJjG9/applied-experien
 hash-format = "sha512"
 hash = "c0b8fc4b154e975c40ed8626d023fe39d57406ffcf292c7d8c578161fcdb0df5471dbf86282fc71813db8b09165b5bc0fe3c2b110c519f0a8da94e09f2e1805a"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/applied-experienced"
+icon = "https://cdn.modrinth.com/data/yKwUnZCV/301a558d3e081cf4f09a13abaac8e80fc7d7366f.png"
+description = "Applied Energistics 2 addon to handle experience"
+category = "tech"
+
 [update.modrinth]
 mod-id = "yKwUnZCV"
 version = "6BRGJjG9"

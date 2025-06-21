@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-
 hash-format = "sha512"
 hash = "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/caelus"
+icon = "https://cdn.modrinth.com/data/40FYwb4z/ae837cab4b8a4d17989b2462bfcd62e8c0451a0f.png"
+description = "A coremod and API to provide developers access to elytra flight mechanics through an entity attribute."
+category = "lib"
+
 [update.modrinth]
 mod-id = "40FYwb4z"
 version = "KsfI4QsR"

@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/vMoHe8uI/versions/F8TicG1p/clean_tooltips-1
 hash-format = "sha512"
 hash = "935f2a18528ae722a628098a33a6d7512f3f029271637738810fc6ed8f5589cd715435a2e66dbd70911e4ddebfd7ea9df17a9766fe4d7ae876dff31b248649fc"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/clean-tooltips"
+icon = "https://cdn.modrinth.com/data/vMoHe8uI/2ece29f22b84e678756adcbcc094c004daeb6973.png"
+description = "A small mod improving Tooltips by creating a clean and consistent look!"
+category = "qol"
+
 [update.modrinth]
 mod-id = "vMoHe8uI"
 version = "F8TicG1p"

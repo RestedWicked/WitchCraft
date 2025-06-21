@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2
 hash-format = "sha512"
 hash = "796fa11d0f481b0af9adea76ea2c494086d63adca4650571f94e610ead1af3ba5d88db1d7a177266588fd0647a34d607bf45a75ebbb9639e8d6888035723934d"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/chunkyborder"
+icon = "https://cdn.modrinth.com/data/s86X568j/c7133164c01d0944b68082b81b39257a90d5eb81_96.webp"
+description = "An add-on for Chunky which lets you create and manage world borders"
+category = "optimization"
+
 [update.modrinth]
 mod-id = "s86X568j"
 version = "Pj0tqKnE"

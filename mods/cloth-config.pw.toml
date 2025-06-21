@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.
 hash-format = "sha512"
 hash = "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/cloth-config"
+icon = "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp"
+description = "Configuration Library for Minecraft Mods"
+category = "lib"
+
 [update.modrinth]
 mod-id = "9s6osm5g"
 version = "izKINKFg"

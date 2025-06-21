@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/Gi02250Z/versions/1FKrJXAN/almanac-1.21.x-n
 hash-format = "sha512"
 hash = "78b59cb732cfc13bae2e7b19cff44adee1eebd68c0546f77318d67f90fa77b753787a92957fe30851e7cc79377f1d9d79ebbfa1b49d967d4577b5a6aa9792c85"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/almanac"
+icon = "https://cdn.modrinth.com/data/Gi02250Z/f0bb3148fcb735bb989ef5723d199114e1f24542.png"
+description = "Almanac is a library used by my mods with mostly loader independent shared code between multiple mods to avoid duplication of code."
+category = "lib"
+
 [update.modrinth]
 mod-id = "Gi02250Z"
 version = "1FKrJXAN"

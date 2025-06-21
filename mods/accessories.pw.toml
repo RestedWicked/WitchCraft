@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/e5CfExph/accessories-neof
 hash-format = "sha512"
 hash = "604809b827a0467d370a99e4072196dd0dad974101493702d691aaa79b997c6bb1a6168b8cd6111f8b292cd6748b641ccbe1aac5117386aa03267a172704d4d7"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/accessories"
+icon = "https://cdn.modrinth.com/data/jtmvUHXj/14fabf4859e845b0bd6659daf2375be3e88f59ec.png"
+description = "A extendable and data-driven Accessory Mod for Minecraft"
+category = "lib"
+
 [update.modrinth]
 mod-id = "jtmvUHXj"
 version = "e5CfExph"

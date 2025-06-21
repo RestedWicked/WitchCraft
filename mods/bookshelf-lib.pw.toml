@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/x53mpdkx/bookshelf-neofor
 hash-format = "sha512"
 hash = "80109432ca7189fb850b387ede9684afb00e33b91b313abfa7fb7a86c28925ddb68483cf190d26b7f21429abd223e3a52709eab10a2f00a3cae9892051e9e183"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/bookshelf-lib"
+icon = "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png"
+description = "An open source library for other mods!"
+category = "lib"
+
 [update.modrinth]
 mod-id = "uy4Cnpcm"
 version = "x53mpdkx"

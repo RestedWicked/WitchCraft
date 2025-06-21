@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/PEPVViac/versions/kfpq4FCa/AdvancedLootInfo
 hash-format = "sha512"
 hash = "531e82da9ee2998252eb2e8c1c7fa834b4ef4c176395dfb0ff30e7da1e08885f11230c26ef5b7d12b410079e19cf957e52fee4019942a1a75ea2cf1f33a1983d"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/advanced-loot-info"
+icon = "https://cdn.modrinth.com/data/PEPVViac/648957952e7f97429620b82a122d9958d2ec3fb4.png"
+description = "EMI/JEI/REI plugin for displaying advanced information about loot tables"
+category = "qol"
+
 [update.modrinth]
 mod-id = "PEPVViac"
 version = "kfpq4FCa"

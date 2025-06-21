@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/1rjvWsWp/accessorify-1.4.
 hash-format = "sha512"
 hash = "b90c30f3a6f8783cac1cae974beaee1d79c983709e5c1abc9375c90b535e4718a80b02fb1d24462a97cd429d2a68568736628c27f4819c94a7ad7aa9034771b5"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/accessorify"
+icon = "https://cdn.modrinth.com/data/CVRzrXGP/c06fca6e003abae595eab75ff9ad11b7a69ca15e_96.webp"
+description = "Makes some vanilla items more useful using the Accessories API"
+category = "lib"
+
 [update.modrinth]
 mod-id = "CVRzrXGP"
 version = "1rjvWsWp"

@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/uQ4QyrBb/versions/rpfjbinG/AccessNetherRoof
 hash-format = "sha512"
 hash = "bb05c52fc8d4caa0eb474f887525dd63a7c2ff5fa3175c8295e69395721d7ee1def8f39e8cdad685d062e951155a22de562cf4e4a96b2417ed4b3dd86deccc08"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/accessible-nether-roof"
+icon = "https://cdn.modrinth.com/data/uQ4QyrBb/509278227ba1d6cfd3e7dc9a1010097e7d10bd8c_96.webp"
+description = "Access nether roof without using bugs!"
+category = "qol"
+
 [update.modrinth]
 mod-id = "uQ4QyrBb"
 version = "rpfjbinG"

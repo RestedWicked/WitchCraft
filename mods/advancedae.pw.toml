@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/rxYaglEe/versions/f5galYPR/AdvancedAE-1.2.5
 hash-format = "sha512"
 hash = "fb5d43808e854a5c28768ba989ad7691cf99f5aec7f76c077dc13003841bffa2ee2aa11b2bb12ab8a014627bc97c6c586c9e6541f1bc4f53f4e99e537747ee99"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/advancedae"
+icon = "https://cdn.modrinth.com/data/rxYaglEe/ebc7848f3387d43e65c84befff15cb8608f3d070.png"
+description = "An AE2 addon that adds a lot of utilities and quality of life."
+category = "qol"
+
 [update.modrinth]
 mod-id = "rxYaglEe"
 version = "f5galYPR"

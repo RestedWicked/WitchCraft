@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge
 hash-format = "sha512"
 hash = "f3083b01267e7c674c4b42f45a317c93ee7723443cba2051fe5bc593638b533b0fe90699e2101661c934dff458eab693cce4e188533bfe977778c249563a2fa5"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/chipped"
+icon = "https://cdn.modrinth.com/data/BAscRYKm/4faa514b4824672a0877d026bcd5a94bc8aad985_96.webp"
+description = "Every block deserves a friend."
+category = "decor"
+
 [update.modrinth]
 mod-id = "BAscRYKm"
 version = "eqVowbGc"

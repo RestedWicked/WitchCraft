@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/COlSi5iR/versions/rKU60Imo/c2me-neoforge-mc
 hash-format = "sha512"
 hash = "149fe37ade1a6af1ab4f7938a8a8df703b0c1cc00acc2306778cffe271bfda4eea543626b5d09333146e869f948cef911277396af7dead394adc580c9ede7e70"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/c2me-neoforge"
+icon = "https://cdn.modrinth.com/data/COlSi5iR/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp"
+description = "A mod designed to improve the chunk performance of Minecraft."
+category = "optimization"
+
 [update.modrinth]
 mod-id = "COlSi5iR"
 version = "rKU60Imo"

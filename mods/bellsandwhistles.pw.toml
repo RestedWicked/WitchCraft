@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles
 hash-format = "sha512"
 hash = "482ee096477b89ed8ec5ce008a4a8ac0ae853079a4f5ce16ad0e0dd9b2eb12b3326f17acaaca1eae0bc51ad238f4e51c8d5b93ded71fe7240717ac8600041c59"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/bellsandwhistles"
+icon = "https://cdn.modrinth.com/data/gJ5afkVv/56ec1e3caca241855a19b65ad391aa20a79259f5_96.webp"
+description = "Additions and adornments for the modern Create engineer. Available for both Fabric & Forge!"
+category = "decor"
+
 [update.modrinth]
 mod-id = "gJ5afkVv"
 version = "w0mifib8"

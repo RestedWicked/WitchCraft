@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDispla
 hash-format = "sha512"
 hash = "301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/better-ping-display"
+icon = "https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png"
+description = "Adds a configurable numerical ping display to the player list"
+category = "qol"
+
 [update.modrinth]
 mod-id = "ZvaHbwoZ"
 version = "AzKubcBR"

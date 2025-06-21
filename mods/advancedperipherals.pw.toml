@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/SOw6jD6x/versions/mJI1inYM/AdvancedPeripher
 hash-format = "sha512"
 hash = "6c5968940b9545cf9fae11e166b4bd27aa1d7522c781dfba3695ed78b8acc4e17d5a9a4619890a05db19326c0918bfc0b26754f26cb168a38acc3447da50f720"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/advancedperipherals"
+icon = "https://cdn.modrinth.com/data/SOw6jD6x/bc21f475feb7bb47c6c969948ec7a0310e554d8f_96.webp"
+description = "Advanced Peripherals is a mod that adds many useful extensions for CC:Tweaked(Computercraft)."
+category = "tech"
+
 [update.modrinth]
 mod-id = "SOw6jD6x"
 version = "mJI1inYM"

@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/izkDUlrJ/versions/YNkFAIw4/accessories_ccla
 hash-format = "sha512"
 hash = "d453f33b52b23295fd2819aad8c5ebd04421ef80521444054d65ab59462b96b4edc2be9b5973798846872ce73ff1b12514875706b0aafb9f09d94c524be569b8"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/accessories-cc-layer"
+icon = "https://cdn.modrinth.com/data/izkDUlrJ/12b28931797cd0c840f19ea2b3929f07751fd719.png"
+description = "A Compatibility layer for mods using the Curios API to work with Accessories"
+category = "lib"
+
 [update.modrinth]
 mod-id = "izkDUlrJ"
 version = "YNkFAIw4"

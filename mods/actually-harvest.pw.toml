@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/aSWyinUv/actuallyharvest-
 hash-format = "sha512"
 hash = "e7bb02f1baceb42249db5b61fda6876ec3e55a724d41605717bdaeb8e3dc657bfab391f2e88da4933af9bc2088c8de887278f0e354da135f11187ee11a6e882e"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/actually-harvest"
+icon = "https://cdn.modrinth.com/data/sUbuUC7R/ca34bdca3b406be71430091b86bec43b0f46f0e0_96.webp"
+description = "An actual working right click harvest without dependencies. XP from harvest feature as well. Should work with most modded farming mods."
+category = "qol"
+
 [update.modrinth]
 mod-id = "sUbuUC7R"
 version = "aSWyinUv"

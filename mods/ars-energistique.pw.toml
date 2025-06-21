@@ -7,7 +7,12 @@ url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/Bdb8HLZ0/arseng-2.1.1-bet
 hash-format = "sha512"
 hash = "4d6229c3c4f627e9804b2afdbeb58fedf172c70e8704b0fa91cfc4d5073bb13ede99b71cd35ee397a92b891a4f884b63bead4a7fbcbe8513fbc8f29c786f42c2"
 
-[update]
+[meta]
+link = "https://modrinth.com/mod/ars-energistique"
+icon = "https://cdn.modrinth.com/data/IJI3QuK8/d713529910f24c6d62410396dbd9b90709a36406.png"
+description = "Bringing magic to the digital age.\n\n(Ars Nouveau x Applied Energistics 2)"
+category = "tech"
+
 [update.modrinth]
 mod-id = "IJI3QuK8"
 version = "Bdb8HLZ0"
