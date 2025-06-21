@@ -600,6 +600,11 @@ hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "60f7945740399d55a2c04ae156a6769ca778bcb61e84fd36a3eed73646925319"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "ed0d18b14280f2fc2723fa704a11a3124d4b4c2550ca11090488ec76d34fca2f"
 metafile = true

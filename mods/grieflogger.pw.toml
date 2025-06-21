@@ -1,0 +1,13 @@
+name = "GriefLogger"
+filename = "grieflogger-1.2.5-1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oGVUFuX/versions/nvRsERUS/grieflogger-1.2.5-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ddc8690714a431b59e6fce03b423ef4bac5c0f7fa3071fe52372618a3246a95026eacb237af008947f12520c0ad7672f83387f13809fa5ff5786de830377deef"
+
+[update]
+[update.modrinth]
+mod-id = "8oGVUFuX"
+version = "nvRsERUS"
