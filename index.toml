@@ -415,11 +415,6 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "bb49c558825151e75dca444c8eaa789cca66caf682c34f8bff9ca49d0a622d0b"
 metafile = true
