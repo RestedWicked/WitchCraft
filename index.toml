@@ -255,6 +255,11 @@ hash = "efb013751f1bd90da288acc683f2d0ffb4a65c255aa08fab7c1a8600e60869f2"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
@@ -400,6 +405,11 @@ hash = "bb49c558825151e75dca444c8eaa789cca66caf682c34f8bff9ca49d0a622d0b"
 metafile = true
 
 [[files]]
+file = "mods/display-that.pw.toml"
+hash = "959d79ec380292898918d336d2cff1ac0a5e293c39a9911a890f5e74689f6408"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
 metafile = true
@@ -452,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
 metafile = true
 
 [[files]]
@@ -700,6 +715,11 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "e010718dbfc38cb8171ad270024fc1f79dd7a158462de26adb0746796522b4f1"
 metafile = true
@@ -817,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
 metafile = true
 
 [[files]]

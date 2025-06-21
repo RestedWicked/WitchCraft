@@ -1,0 +1,13 @@
+name = "Emojiful"
+filename = "Emojiful-Neoforge-1.21-5.2.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72GXx2MO/versions/drIeVIkS/Emojiful-Neoforge-1.21-5.2.1-all.jar"
+hash-format = "sha512"
+hash = "65afca1c0a28b8399e3954ede2e1b58cff8756446c006a934d3bbd2264533537088a1da4dd4da81ce2f03e80f0e06d5e347183ef1988ce0e81dbbe66b483ee5c"
+
+[update]
+[update.modrinth]
+mod-id = "72GXx2MO"
+version = "drIeVIkS"
