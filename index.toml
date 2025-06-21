@@ -425,11 +425,6 @@ hash = "bb49c558825151e75dca444c8eaa789cca66caf682c34f8bff9ca49d0a622d0b"
 metafile = true
 
 [[files]]
-file = "mods/display-that.pw.toml"
-hash = "959d79ec380292898918d336d2cff1ac0a5e293c39a9911a890f5e74689f6408"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
 metafile = true

@@ -1,7 +1,0 @@
-name = "display-that"
-filename = "1.21.1-1.0.0"
-
-[download]
-url = "https://modrinth.com/mod/display-that/version/1.21.1-1.0.0"
-hash-format = "sha256"
-hash = "caccf82818c16d9992786232bc089db51730e1b961b6577257cbbef97a49e570"
