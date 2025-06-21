@@ -390,6 +390,11 @@ hash = "ce9141c50cc7ad7e9e348d8a18e39ef5497b4ec95ba98607ab533a7bb54c43be"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "bb49c558825151e75dca444c8eaa789cca66caf682c34f8bff9ca49d0a622d0b"
 metafile = true
