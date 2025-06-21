@@ -61,6 +61,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "13c564b1003bf45787e8a7ce4caaf892a9cc376b780a654d0aef0e0c0063e0df"
+
+[[files]]
 file = "mods/accessible-nether-roof.pw.toml"
 hash = "9bb3100352bf53612d6f2ce771e61818e220c8dc2228e028546858d5a5ab9cc8"
 metafile = true
@@ -347,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "c6ac284e4777bdd7423e4f909b1c29631958c81461fdabd9e5c4b8da053c49eb"
+hash = "740362d3f16e26d9d83802e493848e095c92a49ca339e6bbffd356bb0dd12534"
 metafile = true
 
 [[files]]

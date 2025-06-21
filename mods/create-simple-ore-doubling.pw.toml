@@ -1,6 +1,6 @@
 name = "Create: Simple Ore Doubling [Forge/Fabric/NeoForge]"
 filename = "create_simple_ore_doubling-1.5.5-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7jXyH8Xk/versions/oQcyA8O2/create_simple_ore_doubling-1.5.5-neoforge-1.21.1.jar"
