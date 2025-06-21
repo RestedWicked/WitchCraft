@@ -5,8 +5,56 @@ file = "config/cpm.json"
 hash = "0a064e1da07c251142b512702851ebdae1cbf9dabe7a1fde65528dac888e348a"
 
 [[files]]
+file = "config/fancymenu/assets/miku.icns"
+hash = "bbccff7773635a3d9a01e9bd740b0f0b29ef1c903eb2e2ff50d2cdfd89258c9c"
+
+[[files]]
+file = "config/fancymenu/assets/miku.png"
+hash = "77b98e983cc3f6597dc162788a63602324d2da78a3bfd6295e89b54cc8f01cce"
+
+[[files]]
+file = "config/fancymenu/assets/miku_16.png"
+hash = "596d07c60560952473f0267751bd0f74a814924936b19564760ffb725a47e6a0"
+
+[[files]]
+file = "config/fancymenu/assets/witch.png"
+hash = "2cdbe6170855fbd469b8149c5e7e5d07d87b0e3cc09b08eb96bd74d176e85df4"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "6da54f5d9fc332e44f16453090865b95a1df834f85b7f89e05b363d14198ec84"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "2dffaf4b17e900969d01b218d38ef4b42c105c1dd0ddf63810bb53a0833da758"
+hash = "68a1f08d855e9ca6813d3edab61869c584fe08ba6f0b4e8a715b345307a2e071"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "mods/accessible-nether-roof.pw.toml"
@@ -114,6 +162,11 @@ hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "2cd33b2219d6549ff7937b008299247201fbc6944889cf3be19e8c6553160585"
 metafile = true
@@ -121,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "5f373d6f13b6e39d4bbdda7afb78cd0205a1e675f4bd783a3b2e443240c68c7d"
 metafile = true
 
 [[files]]
@@ -146,6 +204,16 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
 metafile = true
 
 [[files]]
@@ -644,6 +712,11 @@ hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "91a2de4e1e136cea53f06e8b7256de559808def701c423e6b3913a02729264f6"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
@@ -886,6 +959,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c3a55e1fb24b0caabc684ce4465b91a40eb46f5dc42610dbf690328d839eccf4"
 metafile = true
 
 [[files]]
