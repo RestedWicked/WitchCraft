@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "99aae2d8250ad87553839c463d556d1f3581ef973e216ebf17fd3abfd357629e"
+hash = "5c76801864d90d61c2d0aafe2b32da067701fe70baf5fa6e9d98c72d27af047a"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+hash = "4c4c9fd62640956fff3de936fe8db37d77d8102a63fca3c60b6b7c59f4beaa6c"
 metafile = true
 
 [[files]]
@@ -920,13 +920,8 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
+hash = "f9610ef11be341a8d8e3c50fa58426edc91bb1a50ceff98e7292262409f9b8c2"
 metafile = true
 
 [[files]]
@@ -1027,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedfix.pw.toml"
 hash = "7a4751b8ee21dac7a319df6e886a770c6701d0fa88d1d1caed221b9e0ab466af"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]

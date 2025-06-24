@@ -11,3 +11,7 @@ hash = "64309469e3c46104294cfde31af4d840a38cfed7e49a35d289bb25b86321f7f01cf77109
 [update.modrinth]
 mod-id = "Ps1zyz6x"
 version = "KWMX8X1a"
+
+[option]
+optional = true
+

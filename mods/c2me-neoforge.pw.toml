@@ -16,3 +16,7 @@ category = "optimization"
 [update.modrinth]
 mod-id = "COlSi5iR"
 version = "rKU60Imo"
+
+[option]
+optional = true
+default = false
