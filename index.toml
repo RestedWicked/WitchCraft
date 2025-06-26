@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "ce5d762b63cb82c21b3ea71293c68fc618570131a95b49afee77327d927d0f17"
+hash = "3de099c503adc39fab7643f02c3d7de79a8a9c83385dba2fbb8806d473f6352b"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+hash = "24a7bd108a54ab9a536c49395930f8f4ef856ab8c61a55f9cdade5fe39dc6bae"
 metafile = true
 
 [[files]]
@@ -815,6 +815,16 @@ hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
@@ -962,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/sleep.pw.toml"
 hash = "819f715e2fc22568b84b5d043cc77725cade1a6ac27867bed993e036cac04b82"
+metafile = true
+
+[[files]]
+file = "mods/smsn.pw.toml"
+hash = "aa96da0163d58c62c167a38fe4d6489dfba9e370de44b4aceb855b40cc71c654"
 metafile = true
 
 [[files]]
@@ -1122,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Save My Shaky Network"
+filename = "smsn-neoforge-1.2.3+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oXzIQwRj/versions/wjHlmO0p/smsn-neoforge-1.2.3%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "69020cdc6c0e38b3e2ea1a5c35f6ee361b9f1b28f366593a5149878c6004e11032867bb083e55ee3481a3ffd7291be79c9953a6fdd0a4606c4453bb05b3ab856"
+
+[update]
+[update.modrinth]
+mod-id = "oXzIQwRj"
+version = "wjHlmO0p"
