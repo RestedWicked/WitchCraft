@@ -435,11 +435,6 @@ hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "49a1d1100c21525a63ce2f956588c2f8c79949481a2e009c77457a5b7e53df24"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
@@ -702,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
+metafile = true
+
+[[files]]
+file = "mods/krypton-foxified.pw.toml"
+hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
 metafile = true
 
 [[files]]
