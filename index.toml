@@ -975,6 +975,11 @@ hash = "819f715e2fc22568b84b5d043cc77725cade1a6ac27867bed993e036cac04b82"
 metafile = true
 
 [[files]]
+file = "mods/smsn.pw.toml"
+hash = "aa96da0163d58c62c167a38fe4d6489dfba9e370de44b4aceb855b40cc71c654"
+metafile = true
+
+[[files]]
 file = "mods/snad.pw.toml"
 hash = "1e8c9a317d9c076408d7e1533a362864b3f39f8998616149db646b2e9449244e"
 metafile = true
