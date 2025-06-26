@@ -1125,6 +1125,11 @@ hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
+file = "mods/wits.pw.toml"
+hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
+metafile = true
+
+[[files]]
 file = "mods/world-border.pw.toml"
 hash = "18a2c5562acc2fd6531270bd1ad63899c482d4cac8935b320f90a8dd34b545fe"
 metafile = true
