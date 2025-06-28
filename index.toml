@@ -545,6 +545,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "5b735aafed0ab04e6433192e7a28ba151a552ae72b0738818b781296545ad3dd"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "71a13b97580c7e077d1f0c279e8888fc11ae59f9a3a29852d2cb222d37c12ba1"
 metafile = true
