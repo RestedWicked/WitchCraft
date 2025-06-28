@@ -555,6 +555,11 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "ed2c987edef80404213abdba45b78e0af7d5d1e1ce73b160e7216b735199f877"
 metafile = true
@@ -920,6 +925,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "35eb897c9736c48125a8f86253bc5c0f6f1b3891127d7c300d00b0339167cd36"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
@@ -967,11 +977,6 @@ metafile = true
 [[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "698363af44b0437be16554944959ebec3a841683e40db029bfcb034ad14ba6cc"
-metafile = true
-
-[[files]]
-file = "mods/sleep.pw.toml"
-hash = "819f715e2fc22568b84b5d043cc77725cade1a6ac27867bed993e036cac04b82"
 metafile = true
 
 [[files]]
