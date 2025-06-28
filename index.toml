@@ -375,6 +375,11 @@ hash = "ce62f4aa4fb9ab016094f78e9d0a212b947c1b4a44c2833fc67e257684749e72"
 metafile = true
 
 [[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
@@ -635,6 +640,11 @@ hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "e53ef2a7561783784ef3175333c27dae1d37ba14bbdb110b645343e07c9ea26a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "ec30b8de4afb10af84ef03f24d2492471ac2e52b2d053056943c0eb59ea7c93c"
 metafile = true
@@ -727,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -867,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "9d2221afea391b82aaf0d79d1966f52e9551de1d20f2917985d4cfd109b937e9"
 metafile = true
 
 [[files]]

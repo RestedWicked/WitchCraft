@@ -1,0 +1,13 @@
+name = "Immersive Optimization"
+filename = "immersive_optimization-neoforge-1.21-0.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/S2RfHwBG/immersive_optimization-neoforge-1.21-0.0.5.jar"
+hash-format = "sha512"
+hash = "c892ed22fc8d34b468d1523f7f81815519d0e10cb78a72b3e2c93b24b1ddb05e2626ce577819ad25a506cf09dc247a542eccc6f14ccfc7d7690e126d4a61a45f"
+
+[update]
+[update.modrinth]
+mod-id = "vNZgQmjg"
+version = "S2RfHwBG"
