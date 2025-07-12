@@ -211,7 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "3b2852f9c365a4fa54c1b1e05d47edfcbff4637f19a010cbdb4e7f443b499e82"
+hash = "1544f6f326efdb1880372b13682690d31c6d985385103f7ef1c06d0e7bd166a0"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
