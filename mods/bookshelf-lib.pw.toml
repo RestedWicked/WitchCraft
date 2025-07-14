@@ -1,18 +1,13 @@
 name = "Bookshelf"
-filename = "bookshelf-neoforge-1.21.1-21.1.65.jar"
+filename = "bookshelf-neoforge-1.21.1-21.1.67.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/x53mpdkx/bookshelf-neoforge-1.21.1-21.1.65.jar"
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/9LiRySL2/bookshelf-neoforge-1.21.1-21.1.67.jar"
 hash-format = "sha512"
-hash = "80109432ca7189fb850b387ede9684afb00e33b91b313abfa7fb7a86c28925ddb68483cf190d26b7f21429abd223e3a52709eab10a2f00a3cae9892051e9e183"
+hash = "98225af4ba0a8e10e30219b9a2bef39d0aa49425f5f09b6b2c7f627992458e39e30b686d03a8b8c4563eae44505ce94a7d21363700d77b21c1c4771409c34c63"
 
-[meta]
-link = "https://modrinth.com/mod/bookshelf-lib"
-icon = "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png"
-description = "An open source library for other mods!"
-category = "lib"
-
+[update]
 [update.modrinth]
 mod-id = "uy4Cnpcm"
-version = "x53mpdkx"
+version = "9LiRySL2"
