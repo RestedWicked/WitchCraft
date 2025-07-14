@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "53b26072277b2357d19d0da0cc3bd9d3fe0395db02fe6ec3c9724f1c20ad7c2c"
+hash = "a5a7166775a972bacb9c42094288b41bbde8007967968ca06ff20b0f7fd8dec9"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "3b2852f9c365a4fa54c1b1e05d47edfcbff4637f19a010cbdb4e7f443b499e82"
+hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "4b3701f2f466d35ae5e7b72c8f93f6daa397e9c37b9a2a261b15f237bd262cf2"
+hash = "d0c4db41717ede48a6f9c47ce2cd30a4336b7520279cac56649f96939cd1e7cb"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/emote-tweaks.pw.toml"
-hash = "4295f77fcd254e1c55d04684f29c3e60d148bc8e5038f3f6d71228c2171a7050"
+hash = "208d4a666d8f1b51f95e6467b6610afbec8c10608c5bc3e60ae3a87dbcb502cf"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "ec30b8de4afb10af84ef03f24d2492471ac2e52b2d053056943c0eb59ea7c93c"
+hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
 metafile = true
 
 [[files]]
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/smsn.pw.toml"
-hash = "aa96da0163d58c62c167a38fe4d6489dfba9e370de44b4aceb855b40cc71c654"
+hash = "817e0fe6eac540a0a139df04f1dc0dfe98c6440701a5de05e8e81390ea8128a5"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a762918dfce6afcb2df6097d83705889ac9f3f2712ac3bc64f8a71ae1a142d04"
+hash = "3876d38179b2d9f60a6a900005909a2568146916f8dfedd8294ec33302f5fb4a"
 metafile = true
 
 [[files]]
