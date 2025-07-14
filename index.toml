@@ -636,12 +636,12 @@ metafile = true
 
 [[files]]
 file = "mods/grieflogger.pw.toml"
-hash = "60f7945740399d55a2c04ae156a6769ca778bcb61e84fd36a3eed73646925319"
+hash = "91ac310d8536931e35ca489098f8f78b42ecf0ea4527a94a9abed92a2fe4ad9e"
 metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "ed0d18b14280f2fc2723fa704a11a3124d4b4c2550ca11090488ec76d34fca2f"
+hash = "4b65bc889b87002a5afe4c236a54cf8c1dab11788df1807fa29abd74004cf696"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
-hash = "87efe123ee3fe0133a4e951f110a98a32b16068a3033f2c3a0dbed574ff48cf0"
+hash = "0445d9628d617c021e8d72f04f462e04328ed95e712f1a1dea248e27e4423a46"
 metafile = true
 
 [[files]]
