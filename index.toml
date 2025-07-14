@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4c4f1147928056651c4e92e20a510556053447776c322381bc0bd5d1f0f738e3"
+hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/schematic-energistics.pw.toml"
-hash = "fd11fdfe23bd45f6fef45fece3a88db39d3425a6d67434dc7bb4b39f50e6e8b0"
+hash = "2db765bcdcfd27b524bb2ece6bd21f92472de48c4a695329926475f706c89a4b"
 metafile = true
 
 [[files]]
