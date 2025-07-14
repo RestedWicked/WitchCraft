@@ -1,13 +1,13 @@
 name = "Drop Head"
-filename = "Drop Head 2.1 (1.14-1.21.5).jar"
+filename = "Drop Head 2.1 (1.14-1.21.7).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/glYcmYBi/versions/xuSStJ6Y/Drop%20Head%202.1%20%281.14-1.21.5%29.jar"
+url = "https://cdn.modrinth.com/data/glYcmYBi/versions/5cAqKdGW/Drop%20Head%202.1%20%281.14-1.21.7%29.jar"
 hash-format = "sha512"
-hash = "a416490e79127b8ee6d0566efc79ffd7a4929816879907a5c5e8719cdbbdffff5ba36d48ac78598244f6d4235b4b2482ae856b86d0396acc356a82192aab4267"
+hash = "f9569c66f45f32680a6e545c2807144242819e1261360420b616d35fb4bd80e6bccfa9772eabba00a954adf1ca4a17fd599594b3c26284fbe4bd1a8620da4b61"
 
 [update]
 [update.modrinth]
 mod-id = "glYcmYBi"
-version = "xuSStJ6Y"
+version = "5cAqKdGW"
