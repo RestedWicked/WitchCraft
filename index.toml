@@ -550,6 +550,11 @@ hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
 
 [[files]]
+file = "mods/fastevent.pw.toml"
+hash = "e8f80a31178b51937be55f6c78038c38d6b23f38905688edfa9ca5adab2cbc31"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
