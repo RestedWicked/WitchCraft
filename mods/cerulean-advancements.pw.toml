@@ -1,0 +1,13 @@
+name = "Cerulean"
+filename = "cerulean-neoforge-1.0.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dv57xmf9/versions/i5PXO3P7/cerulean-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "f9808b360746f691765d422b1df512c7d627ef58a1c03ad75bd12f8d847c1f506e164390090fe9fd8d5eaa14f85bb274510db63d1ce27baca4624a1dc2aa3ba7"
+
+[update]
+[update.modrinth]
+mod-id = "dv57xmf9"
+version = "i5PXO3P7"

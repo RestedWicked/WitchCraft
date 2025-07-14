@@ -1,18 +1,13 @@
 name = "CC: Tweaked"
-filename = "cc-tweaked-1.21.1-forge-1.115.1.jar"
+filename = "cc-tweaked-1.21.1-forge-1.116.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/h6qYZ1UT/cc-tweaked-1.21.1-forge-1.115.1.jar"
+url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/SQI2qmh5/cc-tweaked-1.21.1-forge-1.116.1.jar"
 hash-format = "sha512"
-hash = "a9580e569243592448955fa9f65e96b0efe7275df62b0c49e8fd9cf6c07546ea006a00a6c0aa30bb4e7d441cc0a3b79607388c1dab1efad45afec5bf4a9a48b7"
+hash = "6f4e0329d8d9d54375241d0fab5219a6963e3ca678cb8d9fff8e7a39b1a825a5f62f3f5518e9a53f86de7f601797af6efdfdff74fc8fb6fc369e930eb639ec25"
 
-[meta]
-link = "https://modrinth.com/mod/cc-tweaked"
-icon = "https://cdn.modrinth.com/data/gu7yAYhd/icon.png"
-description = "ComputerCraft fork adding programmable computers, turtles and more to Minecraft."
-category = "tech"
-
+[update]
 [update.modrinth]
 mod-id = "gu7yAYhd"
-version = "h6qYZ1UT"
+version = "SQI2qmh5"

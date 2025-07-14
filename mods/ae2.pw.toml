@@ -1,18 +1,13 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-19.2.12.jar"
+filename = "appliedenergistics2-19.2.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Skhspwxl/appliedenergistics2-19.2.12.jar"
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/SSa4JmFc/appliedenergistics2-19.2.13.jar"
 hash-format = "sha512"
-hash = "27df4ffc2bf9bf556bd6ae09197b7d9029ab79487477f0edbf650a33780f8f55778974a3109245c42dddeec12f0abfd0aa5b9737d715fc04a33ae1fc62942393"
+hash = "e4fafcc758c72be93b2ddf5bb717b728c041a12bb4ba99939574129cdfc56e7ffa9d58e71b1082718d0af2eb9b1537acb448d6b8aa1ad75d11899b2582a4f69e"
 
-[meta]
-link = "https://modrinth.com/mod/ae2"
-icon = "https://cdn.modrinth.com/data/XxWD5pD3/60b001515abbf6ebf32bc2729b0ddd95d2793feb_96.webp"
-description = "AE2: A popular automation and storage mod"
-category = "tech"
-
+[update]
 [update.modrinth]
 mod-id = "XxWD5pD3"
-version = "Skhspwxl"
+version = "SSa4JmFc"

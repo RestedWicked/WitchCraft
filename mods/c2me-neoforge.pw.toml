@@ -1,22 +1,16 @@
 name = "Concurrent Chunk Management Engine (NeoForge)"
-filename = "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.70.jar"
+filename = "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.72.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/COlSi5iR/versions/rKU60Imo/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.70.jar"
+url = "https://cdn.modrinth.com/data/COlSi5iR/versions/mgyC9n6H/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.72.jar"
 hash-format = "sha512"
-hash = "149fe37ade1a6af1ab4f7938a8a8df703b0c1cc00acc2306778cffe271bfda4eea543626b5d09333146e869f948cef911277396af7dead394adc580c9ede7e70"
+hash = "ece84c9051b1d136bfd3dca85b1543b083e34699644e0c356cafbc167c784bd5a894384a3bf2cde028f226b7e7d9d8113dadb4f3a85372da412490ea2dd2ef8b"
 
-[meta]
-link = "https://modrinth.com/mod/c2me-neoforge"
-icon = "https://cdn.modrinth.com/data/COlSi5iR/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp"
-description = "A mod designed to improve the chunk performance of Minecraft."
-category = "optimization"
-
+[update]
 [update.modrinth]
 mod-id = "COlSi5iR"
-version = "rKU60Imo"
+version = "mgyC9n6H"
 
 [option]
 optional = true
-default = false

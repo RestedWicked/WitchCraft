@@ -1,18 +1,13 @@
 name = "Accessories"
-filename = "accessories-neoforge-1.1.0-beta.43+1.21.1.jar"
+filename = "accessories-neoforge-1.1.0-beta.45+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/e5CfExph/accessories-neoforge-1.1.0-beta.43%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/o6CV5p8s/accessories-neoforge-1.1.0-beta.45%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "604809b827a0467d370a99e4072196dd0dad974101493702d691aaa79b997c6bb1a6168b8cd6111f8b292cd6748b641ccbe1aac5117386aa03267a172704d4d7"
+hash = "1b21d8fde91f3fa33c161027f0e44b926e0b7e049c693985d95794e6fe7e3dae8100c30801f5946b9fbe62c47d768bc45bf6f6b2c918394cedda7de10e74cbe4"
 
-[meta]
-link = "https://modrinth.com/mod/accessories"
-icon = "https://cdn.modrinth.com/data/jtmvUHXj/14fabf4859e845b0bd6659daf2375be3e88f59ec.png"
-description = "A extendable and data-driven Accessory Mod for Minecraft"
-category = "lib"
-
+[update]
 [update.modrinth]
 mod-id = "jtmvUHXj"
-version = "e5CfExph"
+version = "o6CV5p8s"
