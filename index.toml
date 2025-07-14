@@ -591,12 +591,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "c6aaaea89ba6630ab8bade12431d2e3d710cd3ba88be9e55b85be258f2aa17b3"
+hash = "3e4702736067acc767a732b50f6558971d3dd942e42cea467d3f14e9e2d134e9"
 metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "a224c65c2b6bdf3a019f1b2c1af037e7001921f75c0229d2231c4f38cd47e9c0"
+hash = "c71d98e82f706e23f841fb312d392ef8e028d43b3f1149edfc8f564cebe5c9b1"
 metafile = true
 
 [[files]]
