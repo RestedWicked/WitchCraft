@@ -740,8 +740,8 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
-file = "mods/krypton-foxified.pw.toml"
-hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
+file = "mods/krypton-fnp.pw.toml"
+hash = "0b785ad2b4b9672adad4da0a11a76b242fe994f040662c816f6d2dfaf6868fef"
 metafile = true
 
 [[files]]
