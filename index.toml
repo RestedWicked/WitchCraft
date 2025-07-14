@@ -615,6 +615,11 @@ hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "2d77b9bf28cab8308467ca7ed94bfa45435e72d8e9ea32dd872df60b89a6dc44"
+metafile = true
+
+[[files]]
 file = "mods/gliders.pw.toml"
 hash = "64c2cd1e1b2c750b85a63cf6f3a4f3a2cd90d72b0dd76d3cb0dbfcec7a642884"
 metafile = true
