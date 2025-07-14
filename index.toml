@@ -220,6 +220,11 @@ hash = "3b2852f9c365a4fa54c1b1e05d47edfcbff4637f19a010cbdb4e7f443b499e82"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a6d21f7e29238cfb206ee2e25eb885adce0f80c8c7415cb197c3acbf34e87ab3"
 metafile = true
@@ -1127,6 +1132,11 @@ metafile = true
 [[files]]
 file = "mods/transmog.pw.toml"
 hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
