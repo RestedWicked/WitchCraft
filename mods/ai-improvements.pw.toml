@@ -1,0 +1,13 @@
+name = "AI Improvements"
+filename = "AI-Improvements-1.21-0.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/dGNP90t0/AI-Improvements-1.21-0.5.3.jar"
+hash-format = "sha512"
+hash = "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc"
+
+[update]
+[update.modrinth]
+mod-id = "DSVgwcji"
+version = "dGNP90t0"
