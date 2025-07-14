@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
+hash = "0177b98d7552743df5bd62e45d2efe012d8d416c53f94735a0d4074468f5a2ca"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stock-bridge.pw.toml"
-hash = "cad1a56712d6303c76243fa265262a947a1b620d48484d6eada239d4ae0d061a"
+hash = "2e6372b2674d1917b39aba9b213f769b37cc5c017a01f1df497aed560e5fc82a"
 metafile = true
 
 [[files]]

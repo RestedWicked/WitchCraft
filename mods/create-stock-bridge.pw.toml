@@ -1,13 +1,13 @@
 name = "Create Stock Bridge"
-filename = "createstockbridge-1.21.1-0.1.4.jar"
+filename = "createstockbridge-1.21.1-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V7mbOBO4/versions/fO9nz2jD/createstockbridge-1.21.1-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/V7mbOBO4/versions/k9cxr0xB/createstockbridge-1.21.1-0.1.5.jar"
 hash-format = "sha512"
-hash = "ceaf58db777d8e59db4a7d3e724e6be17ccb26db3451aed48a1be4db3642380ad85f587d8628f2b20e3c9de2b6d708b1316c9abb951513c2db4501dad9754414"
+hash = "de17f64f493d3f12b80832f365e7d01c2fc05e1d72bd4dd25253a952fe7e75f169c636b8871a8350f00387ec53c61c341f8a96f8134d8cce88f456f3a7dc0157"
 
 [update]
 [update.modrinth]
 mod-id = "V7mbOBO4"
-version = "fO9nz2jD"
+version = "k9cxr0xB"
